@@ -14,6 +14,17 @@ html, body, .container {
     align-items: center;
     justify-content: center;
 }
+span.glyphicon-home {
+    font-size: 2em;
+    top: 2px;
+}
+span.glyphicon-earphone {
+    font-size: 2em;
+    top: 6px;
+}
+h3 {
+    display: inline;
+}
 .footer {
     bottom: 0;
     height: 60px;
