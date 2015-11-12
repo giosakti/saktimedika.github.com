@@ -1,0 +1,22 @@
+
+html {
+    min-height: 100%;
+    position: relative;
+}
+body {
+    margin-bottom: 60px;
+}
+html, body, .container {
+    height: 100%;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer {
+    bottom: 0;
+    height: 60px;
+    position: absolute;
+    width: 100%;
+}
